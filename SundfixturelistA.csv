@@ -1,46 +1,46 @@
-﻿Round,Day,Date,Time,Venue,Result,GF,GA,Opponent,Attendance,Captain,Formation,Referee,event_id,Manager
-Matchweek 1,Sat,03/08/2019,15:00 (00:00),Home,D,1,1,Oxford United,"33,498",Jon McLaughlin,4_4_2,Peter Wright,,JR
-Matchweek 2,Sat,10/08/2019,15:00 (00:00),Away,D,1,1,Ipswich Town,"24,051",Aiden McGeady,4_3_3,Neil Hair,167939,JR
-Matchweek 3,Sat,17/08/2019,12:30 (21:30),Home,W,2,1,Portsmouth,"29,140",Grant Leadbitter,4_2_3_1,Michael Salisbury,167955,JR
-Matchweek 4,Tue,20/08/2019,19:45 (04:45),Away,W,2,1,Rochdale,"5,258",Grant Leadbitter,4_2_3_1,John Busby,167966,JR
-Matchweek 5,Sat,24/08/2019,15:00 (00:00),Home,W,3,1,AFC Wimbledon,"29,725",Grant Leadbitter,4_2_3_1,Anthony Backhouse,167979,JR
-Matchweek 6,Sat,31/08/2019,15:00 (00:00),Away,L,0,3,P'borough Utd,"10,005",Grant Leadbitter,4_2_3_1,Craig Hicks,167991,JR
-Matchweek 8,Sat,14/09/2019,15:00 (00:00),Away,W,3,1,Acc'ton Stanley,"4,164",Grant Leadbitter,4_2_3_1,Lee Swabey,168007,JR
-Matchweek 9,Tue,17/09/2019,19:45 (04:45),Home,D,1,1,Rotherham Utd,"29,078",Aiden McGeady,4_2_3_1,Ben Toner,168026,JR
-Matchweek 10,Sat,21/09/2019,15:00 (00:00),Away,D,1,1,Bolton,"12,026",Grant Leadbitter,4_2_3_1,Oliver Yates,168032,JR
-Matchweek 11,Sat,28/09/2019,15:00 (00:00),Home,W,2,1,MK Dons,"29,954",Jordan Willis,4_2_3_1,Paul Marsden,168053,JR
-Matchweek 12,Sat,05/10/2019,15:00 (00:00),Away,L,0,2,Lincoln City,"10,264",Jordan Willis,4_2_3_1,Brett Huxtable,168061,JR
-Matchweek 14,Sat,19/10/2019,15:00 (01:00),Away,L,0,1,Wycombe,"8,395",Grant Leadbitter,4_2_3_1,Kevin Johnson,168089,PP
-Matchweek 15,Tue,22/10/2019,19:45 (05:45),Home,W,5,0,Tranmere Rovers,"28,551",Max Power,4_2_3_1,Carl Boyeson,168100,PP
-Matchweek 16,Sat,26/10/2019,15:00 (01:00),Away,L,0,1,Shrewsbury,"8,117",Max Power,4_2_3_1,Jarred Gillett,168111,PP
-Matchweek 17,Sat,02/11/2019,15:00 (02:00),Home,W,1,0,Southend United,"30,407",Max Power,4_2_3_1,Trevor Kettle,168124,PP
-Matchweek 19,Sat,23/11/2019,15:00 (02:00),Home,D,1,1,Coventry City,"29,809",Grant Leadbitter,4_3_3,Scott Oldham,168148,PP
-Matchweek 7,Tue,26/11/2019,19:45 (06:45),Home,L,1,2,Burton Albion,"26,538",Grant Leadbitter,4_2_3_1,Rob Lewis,168003,PP
-Matchweek 20,Sat,07/12/2019,15:00 (02:00),Away,L,0,1,Gillingham,"5,401",Grant Leadbitter,3_4_1_2,Andy Woolmer,168157,PP
-Matchweek 21,Sat,14/12/2019,15:00 (02:00),Home,D,1,1,Blackpool,"30,595",Max Power,3_4_3,Oliver Yates,168172,PP
-Matchweek 23,Thu,26/12/2019,15:00 (02:00),Home,D,0,0,Bolton,"33,821",Grant Leadbitter,3_4_3,Ross Joyce,168197,PP
-Matchweek 24,Sun,29/12/2019,15:00 (02:00),Away,W,2,1,Doncaster,"12,432",Max Power,3_4_3,Carl Boyeson,168202,PP
-Matchweek 25,Wed,01/01/2020,15:00 (02:00),Away,D,1,1,Fleetwood Town,"4,011",Max Power,3_4_3,Anthony Backhouse,168215,PP
-Matchweek 26,Sat,04/01/2020,15:00 (02:00),Home,W,3,1,Lincoln City,"31,748",Max Power,3_4_3,Leigh Doughty,168233,PP
-Matchweek 27,Sat,11/01/2020,15:00 (02:00),Home,W,4,0,Wycombe,"29,331",Max Power,3_4_3,Andrew Davies,168245,PP
-Matchweek 28,Sat,18/01/2020,15:00 (02:00),Away,W,1,0,MK Dons,"13,327",Max Power,3_4_3,Ben Toner,168254,PP
-Matchweek 29,Fri,24/01/2020,19:45 (06:45),Home,D,0,0,Doncaster,"30,251",Max Power,3_4_3,James Adcock,168269,PP
-Matchweek 30,Wed,29/01/2020,19:45 (06:45),Away,W,1,0,Tranmere Rovers,"6,850",Max Power,3_4_3,Anthony Coggins,168279,PP
-Matchweek 31,Sat,01/02/2020,15:00 (02:00),Away,L,0,2,Portsmouth,"18,531",Max Power,3_4_3,Chris Sarginson,168290,PP
-Matchweek 32,Sat,08/02/2020,15:00 (02:00),Home,W,1,0,Ipswich Town,"32,726",Max Power,3_4_3,Jeremy Simpson,168303,PP
-Matchweek 33,Tue,11/02/2020,19:45 (06:45),Home,W,3,0,Rochdale,"27,401",Max Power,3_4_3,Graham Salisbury,168315,PP
-Matchweek 34,Sat,15/02/2020,15:00 (02:00),Away,W,1,0,Oxford United,"9,105",Max Power,3_4_3,Kevin Johnson,168325,PP
-Matchweek 35,Sat,22/02/2020,15:00 (02:00),Home,W,3,0,Bristol Rovers,"31,541",Max Power,3_4_3,Ben Toner,168340,PP
-Matchweek 13,Tue,25/02/2020,19:45 (06:45),Home,D,1,1,Fleetwood Town,"28,255",Max Power,3_4_3,Scott Oldham,168077,PP
-Matchweek 36,Sun,01/03/2020,12:00 (23:00),Away,L,0,1,Coventry City,"10,055",Max Power,3_4_3,Michael Salisbury,,
-Matchweek 37,Sat,07/03/2020,15:00 (02:00),Home,D,2,2,Gillingham,"29,872",Max Power,3_4_3,Anthony Coggins,,
-Matchweek 18,Tue,10/03/2020,19:45 (06:45),Away,L,0,2,Bristol Rovers,,Max Power,3_4_3,Charles Breakspear,,
-Matchweek 38,Sat,14/03/2020,15:00 (02:00),Away,,,,Blackpool,,,,,,
-Matchweek 39,Sat,21/03/2020,,Home,,,,Bury,,,,,,
-Matchweek 40,Sat,28/03/2020,15:00 (02:00),Away,,,,Southend United,,,,,,
-Matchweek 41,Sat,04/04/2020,15:00 (01:00),Home,,,,Shrewsbury,,,,,,
-Matchweek 42,Fri,10/04/2020,15:00 (00:00),Away,,,,AFC Wimbledon,,,,,,
-Matchweek 43,Mon,13/04/2020,,Home,,,,P'borough Utd,,,,,,
-Matchweek 44,Sat,18/04/2020,,Away,,,,Burton Albion,,,,,,
-Matchweek 45,Sat,25/04/2020,,Home,,,,Acc'ton Stanley,,,,,,
-Matchweek 46,Sun,03/05/2020,,Away,,,,Rotherham Utd,,,,,,
+﻿Round,Day,Date,Time,Venue,Result,GF,GA,Opponent,Attendance,Captain,Formation,Referee,event_id,Manager,League Position 
+Matchweek 1,Sat,03/08/2019,15:00 (00:00),Home,D,1,1,Oxford United,"33,498",Jon McLaughlin,4_4_2,Peter Wright,,JR,10
+Matchweek 2,Sat,10/08/2019,15:00 (00:00),Away,D,1,1,Ipswich Town,"24,051",Aiden McGeady,4_3_3,Neil Hair,167939,JR,14
+Matchweek 3,Sat,17/08/2019,12:30 (21:30),Home,W,2,1,Portsmouth,"29,140",Grant Leadbitter,4_2_3_1,Michael Salisbury,167955,JR,9
+Matchweek 4,Tue,20/08/2019,19:45 (04:45),Away,W,2,1,Rochdale,"5,258",Grant Leadbitter,4_2_3_1,John Busby,167966,JR,6
+Matchweek 5,Sat,24/08/2019,15:00 (00:00),Home,W,3,1,AFC Wimbledon,"29,725",Grant Leadbitter,4_2_3_1,Anthony Backhouse,167979,JR,4
+Matchweek 6,Sat,31/08/2019,15:00 (00:00),Away,L,0,3,P'borough Utd,"10,005",Grant Leadbitter,4_2_3_1,Craig Hicks,167991,JR,6
+Matchweek 8,Sat,14/09/2019,15:00 (00:00),Away,W,3,1,Acc'ton Stanley,"4,164",Grant Leadbitter,4_2_3_1,Lee Swabey,168007,JR,6
+Matchweek 9,Tue,17/09/2019,19:45 (04:45),Home,D,1,1,Rotherham Utd,"29,078",Aiden McGeady,4_2_3_1,Ben Toner,168026,JR,5
+Matchweek 10,Sat,21/09/2019,15:00 (00:00),Away,D,1,1,Bolton,"12,026",Grant Leadbitter,4_2_3_1,Oliver Yates,168032,JR,5
+Matchweek 11,Sat,28/09/2019,15:00 (00:00),Home,W,2,1,MK Dons,"29,954",Jordan Willis,4_2_3_1,Paul Marsden,168053,JR,5
+Matchweek 12,Sat,05/10/2019,15:00 (00:00),Away,L,0,2,Lincoln City,"10,264",Jordan Willis,4_2_3_1,Brett Huxtable,168061,JR,6
+Matchweek 14,Sat,19/10/2019,15:00 (01:00),Away,L,0,1,Wycombe,"8,395",Grant Leadbitter,4_2_3_1,Kevin Johnson,168089,PP,9
+Matchweek 15,Tue,22/10/2019,19:45 (05:45),Home,W,5,0,Tranmere Rovers,"28,551",Max Power,4_2_3_1,Carl Boyeson,168100,PP,6
+Matchweek 16,Sat,26/10/2019,15:00 (01:00),Away,L,0,1,Shrewsbury,"8,117",Max Power,4_2_3_1,Jarred Gillett,168111,PP,10
+Matchweek 17,Sat,02/11/2019,15:00 (02:00),Home,W,1,0,Southend United,"30,407",Max Power,4_2_3_1,Trevor Kettle,168124,PP,7
+Matchweek 19,Sat,23/11/2019,15:00 (02:00),Home,D,1,1,Coventry City,"29,809",Grant Leadbitter,4_3_3,Scott Oldham,168148,PP,12
+Matchweek 7,Tue,26/11/2019,19:45 (06:45),Home,L,1,2,Burton Albion,"26,538",Grant Leadbitter,4_2_3_1,Rob Lewis,168003,PP,10
+Matchweek 20,Sat,07/12/2019,15:00 (02:00),Away,L,0,1,Gillingham,"5,401",Grant Leadbitter,3_4_1_2,Andy Woolmer,168157,PP,12
+Matchweek 21,Sat,14/12/2019,15:00 (02:00),Home,D,1,1,Blackpool,"30,595",Max Power,3_4_3,Oliver Yates,168172,PP,12
+Matchweek 23,Thu,26/12/2019,15:00 (02:00),Home,D,0,0,Bolton,"33,821",Grant Leadbitter,3_4_3,Ross Joyce,168197,PP,15
+Matchweek 24,Sun,29/12/2019,15:00 (02:00),Away,W,2,1,Doncaster,"12,432",Max Power,3_4_3,Carl Boyeson,168202,PP,13
+Matchweek 25,Wed,01/01/2020,15:00 (02:00),Away,D,1,1,Fleetwood Town,"4,011",Max Power,3_4_3,Anthony Backhouse,168215,PP,15
+Matchweek 26,Sat,04/01/2020,15:00 (02:00),Home,W,3,1,Lincoln City,"31,748",Max Power,3_4_3,Leigh Doughty,168233,PP,13
+Matchweek 27,Sat,11/01/2020,15:00 (02:00),Home,W,4,0,Wycombe,"29,331",Max Power,3_4_3,Andrew Davies,168245,PP,10
+Matchweek 28,Sat,18/01/2020,15:00 (02:00),Away,W,1,0,MK Dons,"13,327",Max Power,3_4_3,Ben Toner,168254,PP,6
+Matchweek 29,Fri,24/01/2020,19:45 (06:45),Home,D,0,0,Doncaster,"30,251",Max Power,3_4_3,James Adcock,168269,PP,8
+Matchweek 30,Wed,29/01/2020,19:45 (06:45),Away,W,1,0,Tranmere Rovers,"6,850",Max Power,3_4_3,Anthony Coggins,168279,PP,7
+Matchweek 31,Sat,01/02/2020,15:00 (02:00),Away,L,0,2,Portsmouth,"18,531",Max Power,3_4_3,Chris Sarginson,168290,PP,9
+Matchweek 32,Sat,08/02/2020,15:00 (02:00),Home,W,1,0,Ipswich Town,"32,726",Max Power,3_4_3,Jeremy Simpson,168303,PP,8
+Matchweek 33,Tue,11/02/2020,19:45 (06:45),Home,W,3,0,Rochdale,"27,401",Max Power,3_4_3,Graham Salisbury,168315,PP,7
+Matchweek 34,Sat,15/02/2020,15:00 (02:00),Away,W,1,0,Oxford United,"9,105",Max Power,3_4_3,Kevin Johnson,168325,PP,7
+Matchweek 35,Sat,22/02/2020,15:00 (02:00),Home,W,3,0,Bristol Rovers,"31,541",Max Power,3_4_3,Ben Toner,168340,PP,5
+Matchweek 13,Tue,25/02/2020,19:45 (06:45),Home,D,1,1,Fleetwood Town,"28,255",Max Power,3_4_3,Scott Oldham,168077,PP,7
+Matchweek 36,Sun,01/03/2020,12:00 (23:00),Away,L,0,1,Coventry City,"10,055",Max Power,3_4_3,Michael Salisbury,,PP,6
+Matchweek 37,Sat,07/03/2020,15:00 (02:00),Home,D,2,2,Gillingham,"29,872",Max Power,3_4_3,Anthony Coggins,,PP,7
+Matchweek 18,Tue,10/03/2020,19:45 (06:45),Away,L,0,2,Bristol Rovers,,Max Power,3_4_3,Charles Breakspear,,PP,7
+Matchweek 38,Sat,14/03/2020,15:00 (02:00),Away,,,,Blackpool,,,,,,,
+Matchweek 39,Sat,21/03/2020,,Home,,,,Bury,,,,,,,
+Matchweek 40,Sat,28/03/2020,15:00 (02:00),Away,,,,Southend United,,,,,,,
+Matchweek 41,Sat,04/04/2020,15:00 (01:00),Home,,,,Shrewsbury,,,,,,,
+Matchweek 42,Fri,10/04/2020,15:00 (00:00),Away,,,,AFC Wimbledon,,,,,,,
+Matchweek 43,Mon,13/04/2020,,Home,,,,P'borough Utd,,,,,,,
+Matchweek 44,Sat,18/04/2020,,Away,,,,Burton Albion,,,,,,,
+Matchweek 45,Sat,25/04/2020,,Home,,,,Acc'ton Stanley,,,,,,,
+Matchweek 46,Sun,03/05/2020,,Away,,,,Rotherham Utd,,,,,,,
